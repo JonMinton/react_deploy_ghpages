@@ -1,7 +1,7 @@
 {
   "name": "shoppingList",
   "version": "0.1.0",
-  "homepage" : "https://jonminton.github.io/react_deploy_ghpages/",
+  "homepage" : "https://jonminton.github.io/react_deploy_ghpages",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
