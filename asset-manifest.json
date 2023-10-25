@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_deploy_ghpages/static/css/main.a86bda18.css",
+    "main.js": "/react_deploy_ghpages/static/js/main.d217a3db.js",
+    "index.html": "/react_deploy_ghpages/index.html",
+    "main.a86bda18.css.map": "/react_deploy_ghpages/static/css/main.a86bda18.css.map",
+    "main.d217a3db.js.map": "/react_deploy_ghpages/static/js/main.d217a3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.d217a3db.js"
+  ]
+}
